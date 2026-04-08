@@ -74,7 +74,7 @@
   }
 
   .glow-gold {
-    box-shadow: 0 0 40px hsl(38 70% 45% / 0.15), 0 0 80px hsl(38 70% 45% / 0.05);
+    box-shadow: 0 0 40px hsl(38 70% 55% / 0.15), 0 0 80px hsl(38 70% 55% / 0.05);
   }
 
   .btn-primary {
