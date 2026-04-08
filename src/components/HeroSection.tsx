@@ -12,8 +12,8 @@ const HeroSection = () => {
           alt="Clips & Styles Barber Shop interior"
           className="w-full h-full object-cover scale-105"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-background via-background/80 to-transparent" />
-        <div className="absolute inset-0 bg-gradient-to-r from-background/70 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-background via-background/40 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-r from-background/50 to-transparent" />
       </div>
 
       {/* Top Bar */}
