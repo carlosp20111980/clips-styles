@@ -72,7 +72,7 @@ const ReviewsSection = () => {
                   {review.initials}
                 </div>
                 <div>
-                  <p className="font-body font-medium text-foreground text-sm">{review.name}</p>
+                  <p className="font-body font-bold text-foreground text-sm">{review.name}</p>
                   <p className="text-muted-foreground text-xs">{review.time}</p>
                 </div>
               </div>
