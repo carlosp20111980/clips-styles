@@ -69,7 +69,7 @@ const ContactSection = () => {
                     <item.icon className="w-5 h-5 text-primary" />
                   </div>
                   <p className="text-xs text-muted-foreground uppercase tracking-wider font-body mb-2">{item.label}</p>
-                  <p className="font-display font-semibold text-foreground">{item.primary}</p>
+                  <p className="font-display font-bold text-foreground text-lg">{item.primary}</p>
                   <p className="text-muted-foreground text-sm font-body mt-1">{item.secondary}</p>
                 </div>
               )}

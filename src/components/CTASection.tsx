@@ -14,7 +14,7 @@ const CTASection = () => {
           initial={{ opacity: 0, scale: 0.95 }}
           whileInView={{ opacity: 1, scale: 1 }}
           viewport={{ once: true }}
-          className="glass-card glow-gold rounded-2xl p-10 md:p-16 text-center max-w-3xl mx-auto"
+          className="glass-card glow-gold rounded-2xl p-10 md:p-16 text-center max-w-3xl mx-auto border-primary/15"
         >
           <h2 className="text-3xl md:text-5xl font-display font-bold mb-4">
             Ready for a <span className="text-gradient-gold">Fresh Cut?</span>
